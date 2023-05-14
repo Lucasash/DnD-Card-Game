@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7114291003991567904
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1889715635599187934, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_text
+      value: Doc's Medicine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889715635599187934, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_fontSize
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894601817011917750, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_text
+      value: Give a unit +2 Health. Draw a card
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894601817011917750, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_fontSize
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5986880712879690001, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_text
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6503803111304044459, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_Size.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6503803111304044459, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_Size.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6503803111304044459, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc248f55cad0dd441bdf51bb718bce08, type: 3}
+    - target: {fileID: 6503803111304044459, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6773502511843214835, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_Name
+      value: Doc's Medicine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7234215540386566962, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7234215540386566962, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7234215540386566962, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7234215540386566962, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7234215540386566962, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399204738559017945, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8048845117636583425, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+--- !u!1 &4376189714693958611 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6773502511843214835, guid: c206ab7b75517b64c95f4c8a078e66c0, type: 3}
+  m_PrefabInstance: {fileID: 7114291003991567904}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-6533025960958543081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4376189714693958611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c48ffde2324f340bb1a00fd38e9562, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardName: Doc's Medicine
+  manaCost: 1
+  back: 0
+  inHand: 1
+  origin: {x: 0, y: 0, z: 0}
+  player: {fileID: 0}
+  keywords: {fileID: 0}

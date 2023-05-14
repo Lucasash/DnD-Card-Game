@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3085457293138084549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 500491699008791669, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: cardName
+      value: Arachne
+      objectReference: {fileID: 0}
+    - target: {fileID: 500491699008791669, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: manaCost
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 500491699008791669, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: battlecry
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1305418769133585710, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Name
+      value: Arachne
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Size.x
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Size.y
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2515e25664fd7b44d9c38dcef20a9392, type: 3}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2236102739096539596, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6207096675212746499, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: Arachne
+      objectReference: {fileID: 0}
+    - target: {fileID: 6207096675212746499, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_fontSize
+      value: 2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6221561812584387435, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 'Battlecry: Summon Echo (1,1)'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6221561812584387435, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_fontSize
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8936340333409827650, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9012502326694234550, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 500491699008791669, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+--- !u!1 &2020494966659776809 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3952896550142395372, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 3085457293138084549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2443318727733931868 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 808913451194887577, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 3085457293138084549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4092778634378971115 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1305418769133585710, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 3085457293138084549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7178632477244883834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4092778634378971115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7d578ba323c72499b3ee0ec3d52dcc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardName: Arachne
+  manaCost: 1
+  back: 0
+  backSprite: {fileID: 4409877018982685901}
+  inHand: 1
+  player: {fileID: 0}
+  health: 1
+  attack: 1
+  damage: 0
+  attackSprite: {fileID: 2443318727733931868}
+  healthSprite: {fileID: 2020494966659776809}
+  canAttack: 0
+  attackAura: {fileID: 8822942571179827523}
+  stealthAura: {fileID: 0}
+  barrierAura: {fileID: 0}
+  battlecry: 1
+  deathrattle: 0
+  taunt: 0
+  stealth: 0
+  summon: 0
+  barrier: 0
+  charge: 0
+  silence: 0
+  spellDamage: 0
+  barrierHit: 0
+  stealthy: 0
+  arrow: {fileID: 0}
+  echo: {fileID: 4422589392077540112, guid: 655e6f71b37379f4d92e1196638ed8b9, type: 3}
+--- !u!1 &4409877018982685901 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1721141173600214536, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 3085457293138084549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &8822942571179827523 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5809886005712003974, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 3085457293138084549}
+  m_PrefabAsset: {fileID: 0}

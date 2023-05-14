@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1413524755025368733
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1305418769133585710, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Name
+      value: Aaron
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Size.x
+      value: 1.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Size.y
+      value: 1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2ab05549db62ac147ae69154f72e23a9, type: 3}
+    - target: {fileID: 1612202532181892982, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2236102739096539596, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2916238423879472111, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3076757134814659332, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6207096675212746499, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: Aaron
+      objectReference: {fileID: 0}
+    - target: {fileID: 6207096675212746499, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_fontSize
+      value: 2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6221561812584387435, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 'Battlecry: Grant one ally barrier'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6221561812584387435, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_fontSize
+      value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 8936340333409827650, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9012502326694234550, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+      propertyPath: m_text
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 500491699008791669, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+--- !u!1 &108119594540454835 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1305418769133585710, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5251432348314357250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108119594540454835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0dc6f7597838dc42a1680baaf321cbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardName: Aaron
+  manaCost: 3
+  back: 0
+  backSprite: {fileID: 324084908299339925}
+  inHand: 1
+  origin: {x: 0, y: 0, z: 0}
+  player: {fileID: 0}
+  keywords: {fileID: 0}
+  health: 2
+  attack: 3
+  damage: 0
+  attackSprite: {fileID: 1775560890712832772}
+  healthSprite: {fileID: 2685934552196109681}
+  canAttack: 0
+  attackAura: {fileID: 4845035151265641755}
+  stealthAura: {fileID: 1395895640693167304}
+  barrierAura: {fileID: 166223762150279681}
+  battlecry: 1
+  deathrattle: 0
+  taunt: 0
+  stealth: 0
+  summon: 0
+  barrier: 0
+  charge: 0
+  silence: 0
+  spellDamage: 0
+  barrierHit: 0
+  stealthy: 0
+--- !u!212 &166223762150279681 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1284461470833204380, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &324084908299339925 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1721141173600214536, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &1395895640693167304 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 54868889964266069, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1775560890712832772 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 808913451194887577, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2685934552196109681 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3952896550142395372, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &4845035151265641755 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5809886005712003974, guid: 8ccffd475e4f71f4ab262ebccbd0f8b9, type: 3}
+  m_PrefabInstance: {fileID: 1413524755025368733}
+  m_PrefabAsset: {fileID: 0}

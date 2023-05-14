@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2012968132132281197
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8207550243087091099, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_Name
+      value: AggroDeck
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.size
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[0]
+      value: 
+      objectReference: {fileID: 778343903500846711, guid: fde75ba767a7a34428228184c94fdf71, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[1]
+      value: 
+      objectReference: {fileID: 778343903500846711, guid: fde75ba767a7a34428228184c94fdf71, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[2]
+      value: 
+      objectReference: {fileID: 3306077437987647651, guid: b195348395eca054087331e2a3642cd6, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[3]
+      value: 
+      objectReference: {fileID: 3306077437987647651, guid: b195348395eca054087331e2a3642cd6, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[4]
+      value: 
+      objectReference: {fileID: 4092778634378971115, guid: ff8a65c0b48757c4aad7b4b3cc252174, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[5]
+      value: 
+      objectReference: {fileID: 4092778634378971115, guid: ff8a65c0b48757c4aad7b4b3cc252174, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[6]
+      value: 
+      objectReference: {fileID: 8752565252490613078, guid: a8658a2fb1da96c47a456ae6f2a53e35, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[7]
+      value: 
+      objectReference: {fileID: 8752565252490613078, guid: a8658a2fb1da96c47a456ae6f2a53e35, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[8]
+      value: 
+      objectReference: {fileID: 1025885130976942080, guid: 9819637bcee05204d951971f61ee2bae, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[9]
+      value: 
+      objectReference: {fileID: 1025885130976942080, guid: 9819637bcee05204d951971f61ee2bae, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[10]
+      value: 
+      objectReference: {fileID: 3009157269453482543, guid: bf62b84dd4e098b4ea3c9e54a818b1a1, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[11]
+      value: 
+      objectReference: {fileID: 3009157269453482543, guid: bf62b84dd4e098b4ea3c9e54a818b1a1, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[12]
+      value: 
+      objectReference: {fileID: 8383002843043527192, guid: 045c903c09ececd458f70bba3d3b3e39, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[13]
+      value: 
+      objectReference: {fileID: 8383002843043527192, guid: 045c903c09ececd458f70bba3d3b3e39, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[14]
+      value: 
+      objectReference: {fileID: 8589667796608894263, guid: df115ec043840924b84db478a8cd8192, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[15]
+      value: 
+      objectReference: {fileID: 8589667796608894263, guid: df115ec043840924b84db478a8cd8192, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[16]
+      value: 
+      objectReference: {fileID: 2252540858909918010, guid: 7836c936fa2f9d04aa70b04a7490bb8f, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[17]
+      value: 
+      objectReference: {fileID: 2252540858909918010, guid: 7836c936fa2f9d04aa70b04a7490bb8f, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[18]
+      value: 
+      objectReference: {fileID: 5185148430414785226, guid: ccc08468f1aaac843868a2c92de59805, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[19]
+      value: 
+      objectReference: {fileID: 5185148430414785226, guid: ccc08468f1aaac843868a2c92de59805, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[20]
+      value: 
+      objectReference: {fileID: 7728849330297192517, guid: e511b15fa00f6b747ba48c2e2355a12f, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[21]
+      value: 
+      objectReference: {fileID: 7728849330297192517, guid: e511b15fa00f6b747ba48c2e2355a12f, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[22]
+      value: 
+      objectReference: {fileID: 8963422676516693176, guid: 40fb0d348e9a2334183f756133fe0664, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[23]
+      value: 
+      objectReference: {fileID: 8963422676516693176, guid: 40fb0d348e9a2334183f756133fe0664, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[24]
+      value: 
+      objectReference: {fileID: 1018558401518518044, guid: be66387d705999f47bc095c586f58cf3, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[25]
+      value: 
+      objectReference: {fileID: 1018558401518518044, guid: be66387d705999f47bc095c586f58cf3, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[26]
+      value: 
+      objectReference: {fileID: 6742141158267220111, guid: c818dd9d23785a64fa28ed15210b9748, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[27]
+      value: 
+      objectReference: {fileID: 6742141158267220111, guid: c818dd9d23785a64fa28ed15210b9748, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[28]
+      value: 
+      objectReference: {fileID: 1386722038317207980, guid: 0659d33a8d15a804a82df9ca4a8182c1, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[29]
+      value: 
+      objectReference: {fileID: 1386722038317207980, guid: 0659d33a8d15a804a82df9ca4a8182c1, type: 3}
+    - target: {fileID: 8207550243087091100, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: deckList.Array.data[30]
+      value: 
+      objectReference: {fileID: 1386722038317207980, guid: 0659d33a8d15a804a82df9ca4a8182c1, type: 3}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8207550243087091101, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f9a97e771fd8fe6459497d1d68b2caf5, type: 3}
